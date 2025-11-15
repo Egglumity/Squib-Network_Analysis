@@ -1,0 +1,8 @@
+{
+  "enable_auto_scan": true,
+  "exports_folder": "exports",
+  "include_process_details": true,
+  "log_filename_prefix": "scan",
+  "max_logs": 10,
+  "scan_interval_minutes": 30
+}
