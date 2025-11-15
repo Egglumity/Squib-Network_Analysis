@@ -1,0 +1,934 @@
+{
+  "arp": [
+    {
+      "iface": "ens3",
+      "ip": "85.9.196.1",
+      "mac": "9a:7e:b0:cf:b9:12"
+    }
+  ],
+  "connections": [
+    {
+      "laddr": "85.9.199.152",
+      "lport": 22,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "106.14.183.112",
+      "rport": 33048,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 48106,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "34.49.51.44",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 35290,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.193.91",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 38648,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "35.190.72.216",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "127.0.0.1",
+      "lport": 35064,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "127.0.0.1",
+      "rport": 5901,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "::1",
+      "lport": 5901,
+      "pid": 2118,
+      "proc": "Xtigervnc",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 38650,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "35.190.72.216",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 58648,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "172.66.44.77",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 52036,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.192.176",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 38922,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.129.91",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 51288,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.65.91",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 56912,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "185.199.110.153",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 56898,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "185.199.110.153",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 55296,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "34.160.122.198",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 35258,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "3.171.139.101",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 44026,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.64.201",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 52904,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.193.91",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 47794,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "34.160.90.233",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "127.0.0.1",
+      "lport": 631,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 22,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "106.14.183.112",
+      "rport": 34720,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "127.0.0.1",
+      "lport": 47954,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "127.0.0.1",
+      "rport": 5901,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 34456,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "34.107.243.93",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "::",
+      "lport": 22,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 35230,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "34.36.137.203",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 51408,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.128.176",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 50982,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "142.93.226.94",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 57556,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "34.107.221.82",
+      "rport": 80,
+      "status": "TIME_WAIT"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 58006,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.129.91",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 37340,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "142.250.80.99",
+      "rport": 80,
+      "status": "TIME_WAIT"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 59582,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "142.250.80.35",
+      "rport": 80,
+      "status": "TIME_WAIT"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 80,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 80,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "209.94.56.88",
+      "rport": 40412,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "0.0.0.0",
+      "lport": 111,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 57864,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "104.26.9.239",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 34468,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "34.107.243.93",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 22,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "106.14.183.112",
+      "rport": 34732,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 44332,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "34.160.144.191",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 43650,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "151.101.193.91",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "::",
+      "lport": 111,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "127.0.0.1",
+      "lport": 5901,
+      "pid": 2118,
+      "proc": "Xtigervnc",
+      "proto": "TCP",
+      "raddr": "127.0.0.1",
+      "rport": 35064,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 80,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "209.94.56.88",
+      "rport": 42642,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "127.0.0.1",
+      "lport": 5901,
+      "pid": 2118,
+      "proc": "Xtigervnc",
+      "proto": "TCP",
+      "raddr": "127.0.0.1",
+      "rport": 47954,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "0.0.0.0",
+      "lport": 22,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 59548,
+      "pid": 253192,
+      "proc": "firefox-bin",
+      "proto": "TCP",
+      "raddr": "104.16.175.226",
+      "rport": 443,
+      "status": "ESTABLISHED"
+    },
+    {
+      "laddr": "127.0.0.1",
+      "lport": 5901,
+      "pid": 2118,
+      "proc": "Xtigervnc",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "::1",
+      "lport": 631,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "laddr": "fe80::472f:aea4:65a4:6bcd",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "0.0.0.0",
+      "lport": 68,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "0.0.0.0",
+      "lport": 5353,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "::",
+      "lport": 111,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "::",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "10.10.14.146",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "0.0.0.0",
+      "lport": 46404,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "0.0.0.0",
+      "lport": 60147,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "::1",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "fe80::a4ba:3bff:fe08:7c4",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "0.0.0.0",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "127.0.0.1",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "0.0.0.0",
+      "lport": 111,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "::",
+      "lport": 5353,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "85.9.199.152",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "dead:beef:2::1090",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "laddr": "::",
+      "lport": 60454,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    }
+  ],
+  "created_utc": "2025-11-15T01:04:24.498326+00:00",
+  "dns": {
+    "nameservers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ],
+    "options": {},
+    "search": []
+  },
+  "host": {
+    "fqdn": "debian12-parrot",
+    "hostname": "htb-szffoubm6o",
+    "os": "Linux",
+    "os_release": "6.12.32-amd64",
+    "platform": "Linux-6.12.32-amd64-x86_64-with-glibc2.36"
+  },
+  "interfaces": [
+    {
+      "ipv4": "127.0.0.1",
+      "ipv6": "::1",
+      "mac": "00:00:00:00:00:00",
+      "name": "lo",
+      "speed_mbps": 0,
+      "up": true
+    },
+    {
+      "ipv4": "85.9.199.152",
+      "ipv6": "fe80::a4ba:3bff:fe08:7c4",
+      "mac": "a6:ba:3b:08:07:c4",
+      "name": "ens3",
+      "speed_mbps": 0,
+      "up": true
+    },
+    {
+      "ipv4": "10.10.14.146",
+      "ipv6": "dead:beef:2::1090, fe80::472f:aea4:65a4:6bcd",
+      "mac": "",
+      "name": "tun0",
+      "speed_mbps": 10000,
+      "up": true
+    }
+  ],
+  "routes": [
+    {
+      "destination": "0.0.0.0/0",
+      "gateway": "85.9.196.1",
+      "iface": "ens3",
+      "metric": null
+    },
+    {
+      "destination": "0.0.0.0",
+      "gateway": "85.9.196.1",
+      "iface": "ens3",
+      "metric": 0
+    },
+    {
+      "destination": "10.10.10.0",
+      "gateway": "10.10.14.1",
+      "iface": "tun0",
+      "metric": 0
+    },
+    {
+      "destination": "10.10.14.0",
+      "gateway": "0.0.0.0",
+      "iface": "tun0",
+      "metric": 0
+    },
+    {
+      "destination": "10.129.0.0",
+      "gateway": "10.10.14.1",
+      "iface": "tun0",
+      "metric": 0
+    },
+    {
+      "destination": "85.9.196.0",
+      "gateway": "0.0.0.0",
+      "iface": "ens3",
+      "metric": 0
+    },
+    {
+      "destination": "159.65.208.199",
+      "gateway": "85.9.196.1",
+      "iface": "ens3",
+      "metric": 0
+    },
+    {
+      "destination": "209.94.56.88",
+      "gateway": "85.9.196.1",
+      "iface": "ens3",
+      "metric": 0
+    }
+  ],
+  "sha256": "6e83fbbb97e11190c9967684d2243ecfc8e099f314e756cf064e60450b300450",
+  "suspicious": [
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:22 -> 106.14.183.112:33048"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:48106 -> 34.49.51.44:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:35290 -> 151.101.193.91:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:38648 -> 35.190.72.216:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:38650 -> 35.190.72.216:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:58648 -> 172.66.44.77:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:52036 -> 151.101.192.176:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:38922 -> 151.101.129.91:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:51288 -> 151.101.65.91:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:56912 -> 185.199.110.153:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:56898 -> 185.199.110.153:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:55296 -> 34.160.122.198:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:35258 -> 3.171.139.101:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:44026 -> 151.101.64.201:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:52904 -> 151.101.193.91:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:47794 -> 34.160.90.233:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:22 -> 106.14.183.112:34720"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:34456 -> 34.107.243.93:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:35230 -> 34.36.137.203:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:51408 -> 151.101.128.176:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:50982 -> 142.93.226.94:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:57556 -> 34.107.221.82:80"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:58006 -> 151.101.129.91:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:37340 -> 142.250.80.99:80"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:59582 -> 142.250.80.35:80"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:80 -> 209.94.56.88:40412"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:57864 -> 104.26.9.239:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:34468 -> 34.107.243.93:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:22 -> 106.14.183.112:34732"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:44332 -> 34.160.144.191:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:43650 -> 151.101.193.91:443"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID ?",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:80 -> 209.94.56.88:42642"
+    },
+    {
+      "category": "Connection",
+      "extra": "PID 253192 firefox-bin",
+      "reason": "Remote IP is public (non-private)",
+      "summary": "TCP 85.9.199.152:59548 -> 104.16.175.226:443"
+    }
+  ]
+}
