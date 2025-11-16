@@ -1,5 +1,8 @@
 # IT-360-Group-Project-Sect-1
 
+To use, run python3 src/main10.py
+
+
 v0.2 - Adds a Suspicious Tab + Exporting Improvements/Fixes
 - Adds a new tab to the tool labled "suspicious" that lists public 
 IP connections
