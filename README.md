@@ -6,6 +6,10 @@ pip install PyQt5 psutil netifaces
 
 To use, run python3 src/main.py
 
+v1.0 - Squib 1.0
+- Squib added on the bottom right
+- Made the scan button blue
+
 v0.5 - Dark mode (Oooooo)
 
 v0.2 - Adds a Suspicious Tab + Exporting Improvements/Fixes

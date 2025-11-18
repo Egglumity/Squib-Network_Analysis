@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "squib"
+version = "1.0.0"
+description = "Squib — Network Snapshot Tool"
+authors = [
+  { name="Joey Spadafora" },
+  { name="Paul Fournier" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "PyQt5",
+  "psutil",
+  "netifaces"
+]
+
+[project.scripts]
+squib = "squib.main:main"
+

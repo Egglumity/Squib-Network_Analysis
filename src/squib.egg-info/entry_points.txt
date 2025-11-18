@@ -1,0 +1,2 @@
+[console_scripts]
+squib = squib.main:main
