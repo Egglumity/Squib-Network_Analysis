@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/main10.py
+src/main11.py
+src/main11v2.py
+src/main12.py
+src/main13.py
+src/main14.py
+src/main9.py
+src/squib/__init__.py
+src/squib/main.py
+src/squib.egg-info/PKG-INFO
+src/squib.egg-info/SOURCES.txt
+src/squib.egg-info/dependency_links.txt
+src/squib.egg-info/entry_points.txt
+src/squib.egg-info/requires.txt
+src/squib.egg-info/top_level.txt

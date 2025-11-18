@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.0
+- Changed name of Program to Squib
+- Added Squib to the bottom right of the screen
+- Made the Scan button blue
+
 ## Version 0.5.0
 - Renamed Notifications to Console
 - Improved Dark Mode
