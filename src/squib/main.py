@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
-# Check for dependencies (Fast)
+# Check for dependencies
 def check_dependencies():
     missing = []
     try:
