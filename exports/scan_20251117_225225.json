@@ -3,21 +3,32 @@
     {
       "hostname": "_gateway",
       "iface": "ens3",
-      "ip": "209.94.56.1",
-      "mac": "9a:7e:a9:0b:79:b7"
+      "ip": "85.9.192.1",
+      "mac": "9a:7e:aa:6b:af:c5"
     }
   ],
   "connections": [
     {
       "exe": null,
-      "laddr": "127.0.0.1",
-      "lport": 42552,
+      "laddr": "85.9.194.253",
+      "lport": 80,
       "pid": null,
       "proc": "",
       "proto": "TCP",
-      "raddr": "127.0.0.1",
-      "rport": 5901,
+      "raddr": "209.94.56.88",
+      "rport": 55298,
       "status": "ESTABLISHED"
+    },
+    {
+      "exe": "/usr/bin/Xtigervnc",
+      "laddr": "::1",
+      "lport": 5901,
+      "pid": 2289,
+      "proc": "Xtigervnc",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
     },
     {
       "exe": null,
@@ -31,15 +42,37 @@
       "status": "LISTEN"
     },
     {
-      "exe": "/usr/bin/Xtigervnc",
+      "exe": null,
       "laddr": "127.0.0.1",
-      "lport": 5901,
-      "pid": 2264,
-      "proc": "Xtigervnc",
+      "lport": 631,
+      "pid": null,
+      "proc": "",
       "proto": "TCP",
       "raddr": "",
       "rport": 0,
       "status": "LISTEN"
+    },
+    {
+      "exe": null,
+      "laddr": "127.0.0.1",
+      "lport": 34806,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "127.0.0.1",
+      "rport": 5901,
+      "status": "ESTABLISHED"
+    },
+    {
+      "exe": "/usr/bin/Xtigervnc",
+      "laddr": "127.0.0.1",
+      "lport": 5901,
+      "pid": 2289,
+      "proc": "Xtigervnc",
+      "proto": "TCP",
+      "raddr": "127.0.0.1",
+      "rport": 34818,
+      "status": "ESTABLISHED"
     },
     {
       "exe": null,
@@ -53,55 +86,22 @@
       "status": "LISTEN"
     },
     {
-      "exe": null,
-      "laddr": "209.94.56.219",
-      "lport": 80,
-      "pid": null,
-      "proc": "",
-      "proto": "TCP",
-      "raddr": "",
-      "rport": 0,
-      "status": "LISTEN"
-    },
-    {
-      "exe": null,
+      "exe": "/usr/bin/Xtigervnc",
       "laddr": "127.0.0.1",
-      "lport": 42550,
-      "pid": null,
-      "proc": "",
+      "lport": 5901,
+      "pid": 2289,
+      "proc": "Xtigervnc",
       "proto": "TCP",
       "raddr": "127.0.0.1",
-      "rport": 5901,
+      "rport": 34806,
       "status": "ESTABLISHED"
     },
     {
-      "exe": null,
-      "laddr": "209.94.56.219",
-      "lport": 80,
-      "pid": null,
-      "proc": "",
-      "proto": "TCP",
-      "raddr": "209.94.56.88",
-      "rport": 47218,
-      "status": "ESTABLISHED"
-    },
-    {
-      "exe": null,
-      "laddr": "209.94.56.219",
-      "lport": 80,
-      "pid": null,
-      "proc": "",
-      "proto": "TCP",
-      "raddr": "209.94.56.88",
-      "rport": 47196,
-      "status": "ESTABLISHED"
-    },
-    {
-      "exe": null,
+      "exe": "/usr/bin/Xtigervnc",
       "laddr": "127.0.0.1",
-      "lport": 631,
-      "pid": null,
-      "proc": "",
+      "lport": 5901,
+      "pid": 2289,
+      "proc": "Xtigervnc",
       "proto": "TCP",
       "raddr": "",
       "rport": 0,
@@ -119,20 +119,31 @@
       "status": "LISTEN"
     },
     {
-      "exe": "/usr/bin/Xtigervnc",
-      "laddr": "127.0.0.1",
-      "lport": 5901,
-      "pid": 2264,
-      "proc": "Xtigervnc",
+      "exe": null,
+      "laddr": "::",
+      "lport": 22,
+      "pid": null,
+      "proc": "",
       "proto": "TCP",
-      "raddr": "127.0.0.1",
-      "rport": 42552,
-      "status": "ESTABLISHED"
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
+    },
+    {
+      "exe": null,
+      "laddr": "85.9.194.253",
+      "lport": 80,
+      "pid": null,
+      "proc": "",
+      "proto": "TCP",
+      "raddr": "",
+      "rport": 0,
+      "status": "LISTEN"
     },
     {
       "exe": null,
       "laddr": "127.0.0.1",
-      "lport": 42548,
+      "lport": 34818,
       "pid": null,
       "proc": "",
       "proto": "TCP",
@@ -142,32 +153,21 @@
     },
     {
       "exe": null,
-      "laddr": "209.94.56.219",
+      "laddr": "85.9.194.253",
       "lport": 80,
       "pid": null,
       "proc": "",
       "proto": "TCP",
-      "raddr": "193.163.125.254",
-      "rport": 39036,
-      "status": "SYN_RECV"
+      "raddr": "209.94.56.88",
+      "rport": 55314,
+      "status": "ESTABLISHED"
     },
     {
       "exe": null,
-      "laddr": "209.94.56.219",
-      "lport": 33634,
+      "laddr": "0.0.0.0",
+      "lport": 111,
       "pid": null,
       "proc": "",
-      "proto": "TCP",
-      "raddr": "34.107.243.93",
-      "rport": 443,
-      "status": "TIME_WAIT"
-    },
-    {
-      "exe": "/usr/bin/Xtigervnc",
-      "laddr": "::1",
-      "lport": 5901,
-      "pid": 2264,
-      "proc": "Xtigervnc",
       "proto": "TCP",
       "raddr": "",
       "rport": 0,
@@ -175,8 +175,8 @@
     },
     {
       "exe": null,
-      "laddr": "209.94.56.219",
-      "lport": 37950,
+      "laddr": "85.9.194.253",
+      "lport": 44336,
       "pid": null,
       "proc": "",
       "proto": "TCP",
@@ -186,95 +186,84 @@
     },
     {
       "exe": null,
+      "laddr": "fe80::a4ba:3bff:fe08:207b",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "exe": null,
+      "laddr": "dead:beef:2::10e5",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "exe": null,
+      "laddr": "0.0.0.0",
+      "lport": 50033,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "exe": null,
+      "laddr": "85.9.194.253",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "exe": null,
+      "laddr": "10.10.14.231",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "exe": null,
+      "laddr": "0.0.0.0",
+      "lport": 50837,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "exe": null,
       "laddr": "0.0.0.0",
       "lport": 111,
       "pid": null,
       "proc": "",
-      "proto": "TCP",
+      "proto": "UDP",
       "raddr": "",
       "rport": 0,
-      "status": "LISTEN"
-    },
-    {
-      "exe": "/usr/bin/Xtigervnc",
-      "laddr": "127.0.0.1",
-      "lport": 5901,
-      "pid": 2264,
-      "proc": "Xtigervnc",
-      "proto": "TCP",
-      "raddr": "127.0.0.1",
-      "rport": 42550,
-      "status": "ESTABLISHED"
-    },
-    {
-      "exe": "/usr/bin/Xtigervnc",
-      "laddr": "127.0.0.1",
-      "lport": 5901,
-      "pid": 2264,
-      "proc": "Xtigervnc",
-      "proto": "TCP",
-      "raddr": "127.0.0.1",
-      "rport": 42548,
-      "status": "ESTABLISHED"
+      "status": ""
     },
     {
       "exe": null,
       "laddr": "::",
-      "lport": 22,
-      "pid": null,
-      "proc": "",
-      "proto": "TCP",
-      "raddr": "",
-      "rport": 0,
-      "status": "LISTEN"
-    },
-    {
-      "exe": null,
-      "laddr": "209.94.56.219",
-      "lport": 80,
-      "pid": null,
-      "proc": "",
-      "proto": "TCP",
-      "raddr": "209.94.56.88",
-      "rport": 47210,
-      "status": "ESTABLISHED"
-    },
-    {
-      "exe": null,
-      "laddr": "::",
-      "lport": 123,
-      "pid": null,
-      "proc": "",
-      "proto": "UDP",
-      "raddr": "",
-      "rport": 0,
-      "status": ""
-    },
-    {
-      "exe": null,
-      "laddr": "0.0.0.0",
-      "lport": 34407,
-      "pid": null,
-      "proc": "",
-      "proto": "UDP",
-      "raddr": "",
-      "rport": 0,
-      "status": ""
-    },
-    {
-      "exe": null,
-      "laddr": "fe80::a4ba:3bff:fe08:4250",
-      "lport": 123,
-      "pid": null,
-      "proc": "",
-      "proto": "UDP",
-      "raddr": "",
-      "rport": 0,
-      "status": ""
-    },
-    {
-      "exe": null,
-      "laddr": "fe80::cf9e:d802:8d20:e105",
       "lport": 123,
       "pid": null,
       "proc": "",
@@ -286,7 +275,7 @@
     {
       "exe": null,
       "laddr": "::",
-      "lport": 58880,
+      "lport": 5353,
       "pid": null,
       "proc": "",
       "proto": "UDP",
@@ -296,29 +285,7 @@
     },
     {
       "exe": null,
-      "laddr": "10.10.14.146",
-      "lport": 123,
-      "pid": null,
-      "proc": "",
-      "proto": "UDP",
-      "raddr": "",
-      "rport": 0,
-      "status": ""
-    },
-    {
-      "exe": null,
-      "laddr": "0.0.0.0",
-      "lport": 55388,
-      "pid": null,
-      "proc": "",
-      "proto": "UDP",
-      "raddr": "",
-      "rport": 0,
-      "status": ""
-    },
-    {
-      "exe": null,
-      "laddr": "127.0.0.1",
+      "laddr": "::1",
       "lport": 123,
       "pid": null,
       "proc": "",
@@ -340,40 +307,7 @@
     },
     {
       "exe": null,
-      "laddr": "0.0.0.0",
-      "lport": 123,
-      "pid": null,
-      "proc": "",
-      "proto": "UDP",
-      "raddr": "",
-      "rport": 0,
-      "status": ""
-    },
-    {
-      "exe": null,
-      "laddr": "::1",
-      "lport": 123,
-      "pid": null,
-      "proc": "",
-      "proto": "UDP",
-      "raddr": "",
-      "rport": 0,
-      "status": ""
-    },
-    {
-      "exe": null,
-      "laddr": "::",
-      "lport": 5353,
-      "pid": null,
-      "proc": "",
-      "proto": "UDP",
-      "raddr": "",
-      "rport": 0,
-      "status": ""
-    },
-    {
-      "exe": null,
-      "laddr": "dead:beef:2::1090",
+      "laddr": "fe80::dbd8:e52e:9e73:6c04",
       "lport": 123,
       "pid": null,
       "proc": "",
@@ -395,7 +329,7 @@
     },
     {
       "exe": null,
-      "laddr": "0.0.0.0",
+      "laddr": "::",
       "lport": 111,
       "pid": null,
       "proc": "",
@@ -406,7 +340,18 @@
     },
     {
       "exe": null,
-      "laddr": "209.94.56.219",
+      "laddr": "127.0.0.1",
+      "lport": 123,
+      "pid": null,
+      "proc": "",
+      "proto": "UDP",
+      "raddr": "",
+      "rport": 0,
+      "status": ""
+    },
+    {
+      "exe": null,
+      "laddr": "0.0.0.0",
       "lport": 123,
       "pid": null,
       "proc": "",
@@ -418,7 +363,7 @@
     {
       "exe": null,
       "laddr": "::",
-      "lport": 111,
+      "lport": 55334,
       "pid": null,
       "proc": "",
       "proto": "UDP",
@@ -427,7 +372,7 @@
       "status": ""
     }
   ],
-  "created_utc": "2025-11-16T02:30:38.400208+00:00",
+  "created_utc": "2025-11-18T04:52:25.639034+00:00",
   "dns": {
     "nameservers": [
       "1.1.1.1",
@@ -438,7 +383,7 @@
   },
   "host": {
     "fqdn": "debian12-parrot",
-    "hostname": "htb-absxfv5gch",
+    "hostname": "htb-f4oqm5xvdy",
     "os": "Linux",
     "os_release": "6.12.32-amd64",
     "platform": "Linux-6.12.32-amd64-x86_64-with-glibc2.36"
@@ -453,16 +398,16 @@
       "up": true
     },
     {
-      "ipv4": "209.94.56.219",
-      "ipv6": "fe80::a4ba:3bff:fe08:4250",
-      "mac": "a6:ba:3b:08:42:50",
+      "ipv4": "85.9.194.253",
+      "ipv6": "fe80::a4ba:3bff:fe08:207b",
+      "mac": "a6:ba:3b:08:20:7b",
       "name": "ens3",
       "speed_mbps": 0,
       "up": true
     },
     {
-      "ipv4": "10.10.14.146",
-      "ipv6": "dead:beef:2::1090, fe80::cf9e:d802:8d20:e105",
+      "ipv4": "10.10.14.231",
+      "ipv6": "dead:beef:2::10e5, fe80::dbd8:e52e:9e73:6c04",
       "mac": "",
       "name": "tun0",
       "speed_mbps": 10000,
@@ -470,18 +415,6 @@
     }
   ],
   "routes": [
-    {
-      "destination": "0.0.0.0/0",
-      "gateway": "209.94.56.1",
-      "iface": "ens3",
-      "metric": null
-    },
-    {
-      "destination": "0.0.0.0",
-      "gateway": "209.94.56.1",
-      "iface": "ens3",
-      "metric": 0
-    },
     {
       "destination": "10.10.10.0",
       "gateway": "10.10.14.1",
@@ -501,31 +434,31 @@
       "metric": 0
     },
     {
-      "destination": "159.65.208.199",
-      "gateway": "209.94.56.1",
-      "iface": "ens3",
-      "metric": 0
-    },
-    {
-      "destination": "209.94.56.0",
+      "destination": "85.9.192.0",
       "gateway": "0.0.0.0",
       "iface": "ens3",
       "metric": 0
     },
     {
+      "destination": "159.65.208.199",
+      "gateway": "85.9.192.1",
+      "iface": "ens3",
+      "metric": 0
+    },
+    {
       "destination": "209.94.56.88",
-      "gateway": "209.94.56.1",
+      "gateway": "85.9.192.1",
       "iface": "ens3",
       "metric": 0
     }
   ],
-  "sha256": "0434247aafa9de099a76491c00e4a098e5cc0384320271cd1737d6028879bb7c",
+  "sha256": "0a3cb727a8ab5c3a5499e4bdf635adac09e754c5b02079bea64c780443a0580e",
   "suspicious": [
     {
       "category": "Connection",
       "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "TCP 127.0.0.1:42552 -> 127.0.0.1:5901"
+      "reason": "Remote IP is public (outside local network), Unknown or missing process name",
+      "summary": "TCP 85.9.194.253:80 -> 209.94.56.88:55298"
     },
     {
       "category": "Connection",
@@ -537,37 +470,19 @@
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "TCP :::111 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "TCP 209.94.56.219:80 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "TCP 127.0.0.1:42550 -> 127.0.0.1:5901"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Remote IP is public (outside local network), Unknown or missing process name",
-      "summary": "TCP 209.94.56.219:80 -> 209.94.56.88:47218"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Remote IP is public (outside local network), Unknown or missing process name",
-      "summary": "TCP 209.94.56.219:80 -> 209.94.56.88:47196"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
       "summary": "TCP 127.0.0.1:631 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "TCP 127.0.0.1:34806 -> 127.0.0.1:5901"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "TCP :::111 -> :0"
     },
     {
       "category": "Connection",
@@ -579,25 +494,25 @@
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "TCP 127.0.0.1:42548 -> 127.0.0.1:5901"
+      "summary": "TCP :::22 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "TCP 85.9.194.253:80 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "TCP 127.0.0.1:34818 -> 127.0.0.1:5901"
     },
     {
       "category": "Connection",
       "extra": "",
       "reason": "Remote IP is public (outside local network), Unknown or missing process name",
-      "summary": "TCP 209.94.56.219:80 -> 193.163.125.254:39036"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Remote IP is public (outside local network), Unknown or missing process name",
-      "summary": "TCP 209.94.56.219:33634 -> 34.107.243.93:443"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Remote IP is public (outside local network), Unknown or missing process name",
-      "summary": "TCP 209.94.56.219:37950 -> 142.93.226.94:443"
+      "summary": "TCP 85.9.194.253:80 -> 209.94.56.88:55314"
     },
     {
       "category": "Connection",
@@ -608,98 +523,44 @@
     {
       "category": "Connection",
       "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "TCP :::22 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
       "reason": "Remote IP is public (outside local network), Unknown or missing process name",
-      "summary": "TCP 209.94.56.219:80 -> 209.94.56.88:47210"
+      "summary": "TCP 85.9.194.253:44336 -> 142.93.226.94:443"
     },
     {
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "UDP :::123 -> :0"
+      "summary": "UDP fe80::a4ba:3bff:fe08:207b:123 -> :0"
     },
     {
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "UDP 0.0.0.0:34407 -> :0"
+      "summary": "UDP dead:beef:2::10e5:123 -> :0"
     },
     {
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "UDP fe80::a4ba:3bff:fe08:4250:123 -> :0"
+      "summary": "UDP 0.0.0.0:50033 -> :0"
     },
     {
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "UDP fe80::cf9e:d802:8d20:e105:123 -> :0"
+      "summary": "UDP 85.9.194.253:123 -> :0"
     },
     {
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "UDP :::58880 -> :0"
+      "summary": "UDP 10.10.14.231:123 -> :0"
     },
     {
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "UDP 10.10.14.146:123 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "UDP 0.0.0.0:55388 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "UDP 127.0.0.1:123 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "UDP 0.0.0.0:68 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "UDP 0.0.0.0:123 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "UDP ::1:123 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "UDP :::5353 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "UDP dead:beef:2::1090:123 -> :0"
-    },
-    {
-      "category": "Connection",
-      "extra": "",
-      "reason": "Unknown or missing process name",
-      "summary": "UDP 0.0.0.0:5353 -> :0"
+      "summary": "UDP 0.0.0.0:50837 -> :0"
     },
     {
       "category": "Connection",
@@ -711,13 +572,61 @@
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
-      "summary": "UDP 209.94.56.219:123 -> :0"
+      "summary": "UDP :::123 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "UDP :::5353 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "UDP ::1:123 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "UDP 0.0.0.0:68 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "UDP fe80::dbd8:e52e:9e73:6c04:123 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "UDP 0.0.0.0:5353 -> :0"
     },
     {
       "category": "Connection",
       "extra": "",
       "reason": "Unknown or missing process name",
       "summary": "UDP :::111 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "UDP 127.0.0.1:123 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "UDP 0.0.0.0:123 -> :0"
+    },
+    {
+      "category": "Connection",
+      "extra": "",
+      "reason": "Unknown or missing process name",
+      "summary": "UDP :::55334 -> :0"
     }
   ]
 }

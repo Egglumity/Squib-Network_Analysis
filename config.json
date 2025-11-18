@@ -5,5 +5,5 @@
     "enable_auto_scan": true,
     "log_filename_prefix": "scan",
     "include_process_details": true,
-    "dark_mode": false
+    "dark_mode": true
 }
