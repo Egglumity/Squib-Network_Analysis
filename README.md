@@ -4,7 +4,17 @@
 bash
 pip install PyQt5 psutil netifaces
 
-To use, run python3 src/main.py
+To use, first clone the repository:
+
+git clone https://github.com/Egglumity/Squib-Network_Analysis_Tool
+cd network-analysis-tool
+pip install -e .
+
+launch by typing:
+squib
+or
+python3 src/squib/main.py
+
 
 v1.0 - Squib 1.0
 - Squib added on the bottom right
